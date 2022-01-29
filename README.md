@@ -23,23 +23,23 @@ In District School Summary, we merged the Student data table and School data tab
 
 _NEW DISTRICT SUMMARY NaN:_
 
-![District Summary with NaN](New District Summary with NaN.png)
+![District Summary with NaN](Resources/New District Summary with NaN.png)
 
 _DISTRICT SUMMARY WITHOUT NaN:_
 
-![District Summary Without NaN](DISTRICT SUMMARY WITHOUT NaN.png)
+![District Summary Without NaN](Resources/DISTRICT SUMMARY WITHOUT NaN.png)
 
 - **How is the school summary affected?**
 
 Firstly, we tried to get the data by grouping the schools by School Name, to get the Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Percentage Overall Passing (including the Thomas High School Grade 9 Students). _The stats dropped_:
 
-![School Summary Stat Dropped](School Summary_Stat Dropped.png)
+![School Summary Stat Dropped](Resources/School Summary_Stat Dropped.png)
 
 Then, we filtered on Thomas High School and the Grade 10, 11 and 12 to get the total students. (As we are not counting the Grade 9 students from Thomas High School-\&gt; New Total Count=Total Student Count-Thomas High School Grade 9).
 
 Based on the new student count we calculated the Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Percentage Overall Passing. In the end, we replaced the Percentage Passing Math, Percentage Passing Reading, and Percentage Overall Passing with new values (based on Grade 10, 11 an d12 and Thomas High School). _The stats increased_:
 
-![School Summary Stat Increased](School Summary_Stat Increased.png)
+![School Summary Stat Increased](Resources/School Summary_Stat Increased.png)
 
 - **How does replacing the ninth graders&#39; math and reading scores affect Thomas High School&#39;s performance relative to the other schools?**
 
@@ -55,11 +55,11 @@ We have &quot;nan&quot; for Thomas High School – Grade 9th for Reading Score a
 
 _Math Score_:
 
-![Math Score with NaN](Replacing Ninth Grade Score_Math Score.png)
+![Math Score with NaN](Resources/Replacing Ninth Grade Score_Math Score.png)
 
 Reading Score:
 
-![Reading Score with NaN](Replacing Ninth Grade Score_Reading Score.png)
+![Reading Score with NaN](Resources/Replacing Ninth Grade Score_Reading Score.png)
 
     - _ **Scores by school spending** _
 
@@ -67,11 +67,11 @@ There was minor change in the $630-644 range which belongs to Thomas High School
 
 Data with NaN:
 
-![Scores by School Spending with NaN](Scores by School Spending_Data with NaN.png)
+![Scores by School Spending with NaN](Resources/Scores by School Spending_Data with NaN.png)
 
 Data without NaN:
 
-![Scores by School Spending without NaN](Scores by School Spending_Data without NaN.png)
+![Scores by School Spending without NaN](Resources/Scores by School Spending_Data without NaN.png)
 
     - _ **Scores by school size** _
 
@@ -79,11 +79,11 @@ There was only minor change in the Medium (1000-2000) Range. There was not signi
 
 With NaN Value:
 
-![Scores by School Size with NaN](Scores by School Size With NaN.png)
+![Scores by School Size with NaN](Resources/Scores by School Size With NaN.png)
 
 Without NaN value:
 
-![Scores by School Size without NaN](Scores by School Size Without NaN.png)
+![Scores by School Size without NaN](Resources/Scores by School Size Without NaN.png)
 
     - _ **Scores by school type** _
 
@@ -91,11 +91,11 @@ Again, there was only minor change in the &quot;Charter&quot; School Type. There
 
 Without NaN Value:
 
-![Scores by School Type without NaN](Scores by School Type without NaN.png)
+![Scores by School Type without NaN](Resources/Scores by School Type without NaN.png)
 
 With NaN Value:
 
-![Scores by School Type with NaN](Scores by School Type with NaN.png)
+![Scores by School Type with NaN](Resources/Scores by School Type with NaN.png)
 
 **Summary:**
 
@@ -105,7 +105,7 @@ We have observed that after replacing the Ninth Grade math and reading score to 
 
 With NaN (dropped):
 
-![Data with Ninth Graders NaN](Thomas High School Score drooped with NaN.png)
+![Data with Ninth Graders NaN](Resources/Thomas High School Score drooped with NaN.png)
 
 2. The Thomas High School was in second rank earlier but after changing the Ninth Grade Score to NaN the Ranking dropped and the school came in bottom five.
 3. When we excluded the Ninth Grade students from the Total Student count then the Thomas High School again gained the Rank 2.
