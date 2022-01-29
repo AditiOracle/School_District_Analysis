@@ -1,4 +1,4 @@
-**SCHOOL DISTRIC ANALYSIS**
+**SCHOOL DISTRICT ANALYSIS**
 
 **Overview of the school district analysis:**
 
@@ -107,6 +107,6 @@ With NaN (dropped):
 
 ![Data with Ninth Graders NaN](Thomas High School Score drooped with NaN.png)
 
-1. The Thomas High School was in second rank earlier but after changing the Ninth Grade Score to NaN the Ranking dropped and the school came in bottom five.
-2. When we excluded the Ninth Grade students from the Total Student count then the Thomas High School again gained the Rank 2.
-3. Replacing the Ninth Grade score to NaN surely decreased the Thomas High School Score but when we just filtered on (or included) 10th, 11th and 12th grade data only there was no significant change in the Average Scores or Percentage. The stats remain almost same and the school maintained the ranking also.
+2. The Thomas High School was in second rank earlier but after changing the Ninth Grade Score to NaN the Ranking dropped and the school came in bottom five.
+3. When we excluded the Ninth Grade students from the Total Student count then the Thomas High School again gained the Rank 2.
+4. Replacing the Ninth Grade score to NaN surely decreased the Thomas High School Score but when we just filtered on (or included) 10th, 11th and 12th grade data only there was no significant change in the Average Scores or Percentage. The stats remain almost same and the school maintained the ranking also.
