@@ -23,7 +23,7 @@ In District School Summary, we merged the Student data table and School data tab
 
 _NEW DISTRICT SUMMARY NaN:_
 
-![District Summary with NaN]("Resources/New District Summary with NaN.png")
+![District Summary with NaN](https://github.com/AditiOracle/School_District_Analysis/blob/main/Resources/New%20District%20Summary%20with%20NaN.png)
 
 _DISTRICT SUMMARY WITHOUT NaN:_
 
