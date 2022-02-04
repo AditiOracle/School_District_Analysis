@@ -23,7 +23,7 @@ In District School Summary, we merged the Student data table and School data tab
 
 _NEW DISTRICT SUMMARY NaN:_
 
-![District Summary with NaN](Resources/New District Summary with NaN.png)
+![District Summary with NaN]("Resources/New District Summary with NaN.png")
 
 _DISTRICT SUMMARY WITHOUT NaN:_
 
