@@ -27,7 +27,7 @@ _NEW DISTRICT SUMMARY NaN:_
 
 _DISTRICT SUMMARY WITHOUT NaN:_
 
-![District Summary Without NaN](Resources/DISTRICT SUMMARY WITHOUT NaN.png)
+![District Summary Without NaN](https://github.com/AditiOracle/School_District_Analysis/blob/main/Resources/DISTRICT%20SUMMARY%20WITHOUT%20NaN.png)
 
 - **How is the school summary affected?**
 
