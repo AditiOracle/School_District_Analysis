@@ -33,7 +33,7 @@ _DISTRICT SUMMARY WITHOUT NaN:_
 
 Firstly, we tried to get the data by grouping the schools by School Name, to get the Average Math Score, Average Reading Score, Percentage Passing Math, Percentage Passing Reading, and Percentage Overall Passing (including the Thomas High School Grade 9 Students). _The stats dropped_:
 
-![School Summary Stat Dropped](Resources/School Summary_Stat Dropped.png)
+![School Summary Stat Dropped](https://github.com/AditiOracle/School_District_Analysis/blob/main/Resources/School%20Summary_Stat%20Dropped.png)
 
 Then, we filtered on Thomas High School and the Grade 10, 11 and 12 to get the total students. (As we are not counting the Grade 9 students from Thomas High School-\&gt; New Total Count=Total Student Count-Thomas High School Grade 9).
 
